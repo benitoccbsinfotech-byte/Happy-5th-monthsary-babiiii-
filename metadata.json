@@ -1,0 +1,6 @@
+{
+  "name": "Our 5th Monthsary | Five Months of Us",
+  "description": "A heartwarming, personal keepsake celebration of 5 months together with an interactive love counter, sealed anniversary letter, keepsake timeline, love coupons, and memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
